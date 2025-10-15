@@ -17,33 +17,35 @@ Cinnamon Settings Manager is a collection of specialized configuration tools tha
 - Organized category-based navigation
 - Integration with system configuration tools
 
-<img width="3573" height="2152" alt="Screenshot from 2025-08-24-19-51-21" src="https://github.com/user-attachments/assets/6b138b67-ad39-402f-8c09-9ceb0fa43c0f" />
+<img width="3840" height="2160" alt="Screenshot from 2025-10-15-19-39-53" src="https://github.com/user-attachments/assets/e6608a98-92c2-4e42-a2d3-95aff541ae36" />
 
 
 ## Features
 
-- **Cinnamon Theme Manager** - Preview and apply Cinnamon desktop themes
-<img width="3565" height="2152" alt="Screenshot from 2025-08-24-19-49-20" src="https://github.com/user-attachments/assets/68b17956-1f7a-4fa3-b097-f37262733a7e" />
-
-
-- **Application Theme Manager** - Preview and apply GTK themes for applications
-<img width="3565" height="2152" alt="Screenshot from 2025-08-24-19-48-14" src="https://github.com/user-attachments/assets/b9de62c9-cbba-4ecb-9d54-cc6758f69155" />
-
-
-- **Icon Theme Manager** - Browse and switch between icon themes with comprehensive previews
-<img width="3565" height="2152" alt="Screenshot from 2025-08-24-19-49-00" src="https://github.com/user-attachments/assets/f6b603f3-6c46-4330-a450-78abed335fc3" />
-
-
-- **Cursor Theme Manager** - Advanced cursor theme management with extracted cursor previews
-<img width="3565" height="2152" alt="Screenshot from 2025-08-24-19-47-12" src="https://github.com/user-attachments/assets/2c78285a-3b0c-4aaf-a23b-fc1add463028" />
-
 
 - **Background Manager** - Wallpaper management with thumbnail previews
-<img width="3565" height="2152" alt="Screenshot from 2025-08-24-19-46-24" src="https://github.com/user-attachments/assets/1deb7dc2-e098-449a-92b6-587b42117560" />
 
+<img width="3840" height="2160" alt="Screenshot from 2025-10-15-19-44-54" src="https://github.com/user-attachments/assets/de4016d1-9f4a-4870-aa41-ce75e2320324" />
 
 - **Font Manager** - System font management with live preview capabilities
-<img width="3565" height="2152" alt="Screenshot from 2025-08-24-19-46-50" src="https://github.com/user-attachments/assets/b6db225e-df44-48ac-8943-ffaa1d2f495e" />
+
+<img width="3840" height="2160" alt="Screenshot from 2025-10-15-19-40-59" src="https://github.com/user-attachments/assets/055b4d59-9c7a-417c-8d62-84736d1d126b" />
+
+- **Cursor Theme Manager** - Advanced cursor theme management with extracted cursor previews
+
+<img width="3840" height="2160" alt="Screenshot from 2025-10-15-19-41-26" src="https://github.com/user-attachments/assets/59409777-160b-4b20-bd36-b22e1d7f2f22" />
+
+- **Application Theme Manager** - Preview and apply GTK themes for applications
+
+<img width="3840" height="2160" alt="Screenshot from 2025-10-15-19-42-24" src="https://github.com/user-attachments/assets/78dbc862-1ae3-4557-8d5f-a3b81b18d139" />
+
+- **Icon Theme Manager** - Browse and switch between icon themes with comprehensive previews
+
+<img width="3840" height="2160" alt="Screenshot from 2025-10-15-19-42-44" src="https://github.com/user-attachments/assets/336f6251-cd16-4442-ad62-8a26dd11f1e5" />
+
+- **Cinnamon Theme Manager** - Preview and apply Cinnamon desktop themes
+
+<img width="3840" height="2160" alt="Screenshot from 2025-10-15-19-43-02" src="https://github.com/user-attachments/assets/a4c289a3-295f-44ad-871d-a23217f2d606" />
 
 
 ## Usage
